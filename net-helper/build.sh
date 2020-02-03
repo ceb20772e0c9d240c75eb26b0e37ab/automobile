@@ -1,1 +1,1 @@
-docker build -t mitmproxy/mitmproxy
+docker build -t mitmproxy/mitmproxy .
