@@ -1,3 +1,4 @@
 # AUTO🚘MOBILE
-### Mobile pentest automation with docker
-### PROOF OF CONCEPT
+### PROOF OF CONCEPT of mobile penetration testing automation with docker
+
+### Fast and easy deployment of pentest lab
