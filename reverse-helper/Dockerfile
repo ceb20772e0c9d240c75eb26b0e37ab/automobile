@@ -1,7 +1,8 @@
-FROM ubuntu:latest
+FROM alpine::latest
+MAINTAINER sasha_karaseva
+USER root
 
-RUN apt-get update && apt-get install -y \
-default-jdk unzip git wget
+RUN apk add --no-cache wget openjdk9 git
 
 RUN wget -O /usr/local/bin/apktool.jar "https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.4.1.jar" 
 RUN chmod +x /usr/local/bin/apktool.jar
