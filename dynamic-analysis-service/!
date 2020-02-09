@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  adb: 
+    build: adb
+  frida:
+    build: frida
