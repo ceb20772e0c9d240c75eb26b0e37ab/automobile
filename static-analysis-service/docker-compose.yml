@@ -1,6 +1,7 @@
 version: '3.7'
-  services:
-    mobsf:
-      image:"opensecurity/mobile-security-framework-mobsf"
-    qark:
-      build: qark #corrent to absolute path 
+  
+services:
+  mobsf:
+    image:"opensecurity/mobile-security-framework-mobsf
+  qark:
+    build: qark
