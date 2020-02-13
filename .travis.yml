@@ -1,0 +1,15 @@
+sudo: required
+
+language: bash
+
+services:
+  - docker
+
+before_install:
+  - docker pull python:alpine3.11
+  - docker pull alpine:latest
+  - docker pull python:3.9.0a3-alpine3.10
+  - docker build -t dynamic-analysis-service/adb
+  - docker build -t dynamic-analysis-service/frida
+  - docker build -t net-helper
+

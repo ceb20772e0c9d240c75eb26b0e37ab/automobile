@@ -2,6 +2,6 @@ version: '3.7'
   
 services:
   mobsf:
-1    image:"opensecurity/mobile-security-framework-mobsf"
+    image:"opensecurity/mobile-security-framework-mobsf"
   qark:
     build: qark
