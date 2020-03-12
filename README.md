@@ -1,9 +1,9 @@
 # AUTO🚘MOBILE
 ### PROOF OF CONCEPT of mobile penetration testing automation with docker
 
-                               .-------------------.
-                   ____________|APPLICATION PACKAGE|____________
-                  |            '-------------------'            |
+                                 .-------------------.
+                   ______________|APPLICATION PACKAGE|__________
+                  |              '-------------------'          |
                   |                        |                    |
       .------------------------.    .--------------.    .-----------------.   
       |dynamic analysis service|    |network helper|    |decompile service|
