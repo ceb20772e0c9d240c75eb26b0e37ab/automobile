@@ -1,6 +1,8 @@
 # AUTO🚘MOBILE
 ### PROOF OF CONCEPT of mobile penetration testing automation with docker
 
+Following structure is flexible and may be changed due to the needs.
+
                                  .-------------------.
                    ______________|APPLICATION PACKAGE|__________
                   |              '-------------------'          |
