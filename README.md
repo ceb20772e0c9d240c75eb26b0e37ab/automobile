@@ -19,7 +19,7 @@ Following structure is flexible and may be changed due to the needs.
       |📱     📱     📱     📱|            i ^   i                  .-----------------------.
       '------------------------'            c ^   c                  |static analysis service|
                    |                          ^   |                  '-----------------------'
-                   >>>>>>>>>>>>>>>>>>>>>          l
+                   >>>>>>>>>>>>>>>>>>>>>>>>>>>>   l
                                                   o
                                                   g
                                                   s
